@@ -1,2 +1,2 @@
 "# VueMonsterSlayer" 
-"# An RPG mini game using Vue"
+"# An RPG mini game using basic Vue.js"
